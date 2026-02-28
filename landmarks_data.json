@@ -1,0 +1,129 @@
+{
+  "landmarks": {
+    "carthage": {
+      "name": {
+        "en": "Carthage",
+        "fr": "Carthage",
+        "ar": "قرطاج"
+      },
+      "type": "archaeological_site",
+      "coordinates": [36.8528, 10.3233],
+      "unesco": true,
+      "keywords": ["ruins", "roman", "columns", "ancient", "baths"],
+      "history": {
+        "en": "Founded by Phoenician settlers in 814 BC, Carthage grew to become one of the most powerful cities in the ancient Mediterranean. Home to the great general Hannibal, who crossed the Alps with elephants to attack Rome.",
+        "fr": "Fondée par des colons phéniciens en 814 av. J.-C., Carthage est devenue l'une des villes les plus puissantes de la Méditerranée antique. Patrie du grand général Hannibal.",
+        "ar": "تأسست قرطاج على يد المستوطنين الفينيقيين عام 814 قبل الميلاد، ونمت لتصبح واحدة من أقوى المدن في البحر الأبيض المتوسط القديم. موطن القائد العظيم حنبعل."
+      },
+      "legends": {
+        "en": "Legend tells that Queen Dido asked for only as much land as could be covered by an ox hide. Cleverly, she cut the hide into thin strips, encircling the hill that would become Carthage.",
+        "fr": "La légende raconte que la reine Didon demanda seulement autant de terre que pourrait couvrir une peau de bœuf. Astucieusement, elle coupa la peau en fines lanières.",
+        "ar": "تقول الأسطورة أن الملكة ديدو طلبت فقط قدر ما يمكن أن يغطيه جلد ثور. بذكاء، قطعت الجلد إلى شرائط رفيعة."
+      },
+      "fun_facts": {
+        "en": ["The Antonine Baths were the largest Roman baths outside Rome", "Carthage invented the alphabet that became our modern letters"],
+        "fr": ["Les thermes d'Antonin étaient les plus grands bains romains hors de Rome", "Carthage a inventé l'alphabet"],
+        "ar": ["كانت حمامات أنطونيوس أكبر حمامات رومانية خارج روما", "اخترعت قرطاج الأبجدية"]
+      },
+      "atmosphere": {
+        "sights": ["crumbling columns against blue sky", "ancient stones", "Mediterranean view"],
+        "sounds": ["wind through columns", "distant waves", "birds"],
+        "smells": ["sea salt", "wild herbs", "ancient dust"]
+      }
+    },
+    "sidi_bou_said": {
+      "name": {
+        "en": "Sidi Bou Said",
+        "fr": "Sidi Bou Saïd",
+        "ar": "سيدي بو سعيد"
+      },
+      "type": "village",
+      "coordinates": [36.8687, 10.3477],
+      "unesco": false,
+      "keywords": ["blue", "white", "village", "doors", "cafe", "mediterranean"],
+      "history": {
+        "en": "This clifftop village takes its name from a 13th-century Sufi saint. In 1915, Baron d'Erlanger convinced authorities to require all buildings be painted blue and white - creating the iconic look.",
+        "fr": "Ce village perché tire son nom d'un saint soufi du XIIIe siècle. En 1915, le Baron d'Erlanger a fait passer une loi exigeant le bleu et blanc.",
+        "ar": "تحمل هذه القرية اسم قديس صوفي من القرن الثالث عشر. في عام 1915، أقنع البارون السلطات بطلاء جميع المباني بالأزرق والأبيض."
+      },
+      "legends": {
+        "en": "Lovers who kiss beneath the famous blue door at sunset are blessed with eternal love - but only if they share a bambalouni first!",
+        "fr": "Les amoureux qui s'embrassent sous la porte bleue au coucher du soleil sont bénis d'un amour éternel!",
+        "ar": "يُقال إن العشاق الذين يتبادلون القبل تحت الباب الأزرق عند غروب الشمس مباركون بحب أبدي!"
+      },
+      "fun_facts": {
+        "en": ["It's illegal to paint your house any other color", "Café des Nattes has served mint tea since 1750"],
+        "fr": ["Il est illégal de peindre sa maison d'une autre couleur", "Le Café des Nattes sert du thé depuis 1750"],
+        "ar": ["من غير القانوني طلاء منزلك بلون آخر", "مقهى النّاطات يقدم الشاي منذ 1750"]
+      },
+      "atmosphere": {
+        "sights": ["blue doors", "white walls", "bougainvillea", "Mediterranean view"],
+        "sounds": ["seagulls", "cafe chatter", "waves below"],
+        "smells": ["jasmine", "sea breeze", "mint tea", "bambalouni"]
+      }
+    },
+    "el_jem_amphitheater": {
+      "name": {
+        "en": "Amphitheater of El Jem",
+        "fr": "Amphithéâtre d'El Jem",
+        "ar": "قصر الجم"
+      },
+      "type": "monument",
+      "coordinates": [35.2961, 10.7067],
+      "unesco": true,
+      "keywords": ["colosseum", "amphitheater", "roman", "gladiator", "arena"],
+      "history": {
+        "en": "The third-largest Roman amphitheater ever built and the best preserved. Constructed around 238 AD, it could seat 35,000 spectators who watched gladiatorial combat.",
+        "fr": "Le troisième plus grand amphithéâtre romain jamais construit et le mieux conservé. Construit vers 238 après J.-C., il pouvait accueillir 35 000 spectateurs.",
+        "ar": "ثالث أكبر مدرج روماني تم بناؤه على الإطلاق والأفضل حفظًا. بُني حوالي عام 238 ميلادي، وكان يستوعب 35,000 متفرج."
+      },
+      "legends": {
+        "en": "Local legend speaks of a secret underground tunnel stretching 40 kilometers to Mahdia. On quiet nights, residents claim to hear the roar of crowds echoing from the empty arena.",
+        "fr": "La légende locale parle d'un tunnel secret de 40 kilomètres jusqu'à Mahdia. Les nuits calmes, on entend le rugissement des foules.",
+        "ar": "تتحدث الأسطورة عن نفق سري يمتد 40 كيلومترًا إلى المهدية. في الليالي الهادئة، يسمع السكان هدير الحشود."
+      },
+      "fun_facts": {
+        "en": ["Better preserved than Rome's Colosseum", "Movies like Gladiator used it for inspiration"],
+        "fr": ["Mieux conservé que le Colisée de Rome", "Des films comme Gladiator s'en sont inspirés"],
+        "ar": ["محفوظ أفضل من كولوسيوم روما", "استلهمت منه أفلام مثل غلادياتور"]
+      },
+      "atmosphere": {
+        "sights": ["towering arches", "underground passages", "vast arena", "golden sandstone"],
+        "sounds": ["wind through arches", "echoing footsteps", "birds nesting"],
+        "smells": ["hot stone", "dry dust", "wild herbs"]
+      }
+    }
+  },
+  "story_modes": {
+    "historian": {
+      "name": {"en": "The Historian", "fr": "L'Historien", "ar": "المؤرخ"},
+      "emoji": "🏛️",
+      "tone": "scholarly, informative, factual"
+    },
+    "legend_keeper": {
+      "name": {"en": "The Legend Keeper", "fr": "Le Gardien des Légendes", "ar": "حارس الأساطير"},
+      "emoji": "👻",
+      "tone": "mysterious, enchanting, mythical"
+    },
+    "time_traveler": {
+      "name": {"en": "The Time Traveler", "fr": "Le Voyageur du Temps", "ar": "المسافر عبر الزمن"},
+      "emoji": "⚔️",
+      "tone": "immersive, present-tense, dramatic"
+    },
+    "romantic": {
+      "name": {"en": "The Romantic", "fr": "Le Romantique", "ar": "الرومانسي"},
+      "emoji": "💕",
+      "tone": "poetic, emotional, beautiful"
+    },
+    "kids_adventure": {
+      "name": {"en": "Kids Adventure", "fr": "Aventure Enfants", "ar": "مغامرة للأطفال"},
+      "emoji": "👶",
+      "tone": "fun, simple, exciting"
+    },
+    "movie_director": {
+      "name": {"en": "The Director", "fr": "Le Réalisateur", "ar": "المخرج"},
+      "emoji": "🎬",
+      "tone": "cinematic, visual, dramatic"
+    }
+  }
+}
