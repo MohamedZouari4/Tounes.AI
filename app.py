@@ -378,6 +378,9 @@ def main():
     ui_lang = st.session_state['ui_language']
     
     # ---- Header ----
+    logo_path = Path("Logo.png")
+    if logo_path.exists():
+        st.image(str(logo_path), width=120)
     st.markdown(f"""
         <div class="main-header">
         <h1>📖 Tounes.AI تونس</h1>
