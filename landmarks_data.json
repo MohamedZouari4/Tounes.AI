@@ -9,28 +9,50 @@
       "type": "archaeological_site",
       "coordinates": [36.8528, 10.3233],
       "unesco": true,
-      "keywords": ["ruins", "roman", "columns", "ancient", "baths"],
+      "region": "Greater Tunis",
+      "era": "814 BC - Present",
+      "best_time": "Spring (March-May)",
+      "visit_duration_hours": 3,
+      "keywords": ["ruins", "roman", "columns", "ancient", "baths", "phoenician", "punic"],
       "history": {
-        "en": "Founded by Phoenician settlers in 814 BC, Carthage grew to become one of the most powerful cities in the ancient Mediterranean. Home to the great general Hannibal, who crossed the Alps with elephants to attack Rome.",
-        "fr": "Fondée par des colons phéniciens en 814 av. J.-C., Carthage est devenue l'une des villes les plus puissantes de la Méditerranée antique. Patrie du grand général Hannibal.",
-        "ar": "تأسست قرطاج على يد المستوطنين الفينيقيين عام 814 قبل الميلاد، ونمت لتصبح واحدة من أقوى المدن في البحر الأبيض المتوسط القديم. موطن القائد العظيم حنبعل."
+        "en": "Founded by Phoenician settlers in 814 BC, Carthage grew to become one of the most powerful cities in the ancient Mediterranean. Home to the great general Hannibal Barca, who famously crossed the Alps with war elephants to attack Rome. After the devastating Punic Wars, Rome destroyed the city in 146 BC, only to rebuild it as a jewel of their African province. The Antonine Baths, Byrsa Hill, and the Tophet sanctuary still whisper stories of two great civilizations.",
+        "fr": "Fondée par des colons phéniciens en 814 av. J.-C., Carthage est devenue l'une des villes les plus puissantes de la Méditerranée antique. Patrie du grand général Hannibal Barca, célèbre pour avoir traversé les Alpes avec des éléphants de guerre. Après les guerres puniques dévastatrices, Rome détruisit la ville en 146 av. J.-C., pour la reconstruire comme un joyau de leur province africaine.",
+        "ar": "تأسست قرطاج على يد المستوطنين الفينيقيين عام 814 قبل الميلاد، ونمت لتصبح واحدة من أقوى المدن في البحر الأبيض المتوسط القديم. موطن القائد العظيم حنبعل برقا، الذي عبر جبال الألب بأفيال الحرب لمهاجمة روما. بعد الحروب البونية المدمرة، دمّرت روما المدينة عام 146 قبل الميلاد، ثم أعادت بناءها كجوهرة لولايتها الأفريقية. لا تزال حمامات أنطونيوس وتل بيرصا ومعبد التوفة تهمس بقصص حضارتين عظيمتين."
       },
       "legends": {
-        "en": "Legend tells that Queen Dido asked for only as much land as could be covered by an ox hide. Cleverly, she cut the hide into thin strips, encircling the hill that would become Carthage.",
-        "fr": "La légende raconte que la reine Didon demanda seulement autant de terre que pourrait couvrir une peau de bœuf. Astucieusement, elle coupa la peau en fines lanières.",
-        "ar": "تقول الأسطورة أن الملكة ديدو طلبت فقط قدر ما يمكن أن يغطيه جلد ثور. بذكاء، قطعت الجلد إلى شرائط رفيعة."
+        "en": "Legend tells that Queen Dido of Tyre asked for only as much land as could be covered by an ox hide. Cleverly, she cut the hide into the thinnest possible strips, encircling the entire hill that would become the mighty Carthage. Some say on moonlit nights, you can still see Dido's ghost walking the ruins, weeping for a love lost and an empire she never imagined.",
+        "fr": "La légende raconte que la reine Didon de Tyr demanda seulement autant de terre que pourrait couvrir une peau de bœuf. Astucieusement, elle coupa la peau en fines lanières, encerclant toute la colline qui deviendrait la puissante Carthage. On dit que les nuits de pleine lune, on peut encore voir le fantôme de Didon errant dans les ruines.",
+        "ar": "تقول الأسطورة أن الملكة عليسة (ديدو) القادمة من صور طلبت فقط قدر ما يمكن أن يغطيه جلد ثور. بذكاء خارق، قطعت الجلد إلى أرفع شرائط ممكنة، فأحاطت بالتل بأكمله الذي سيصبح قرطاج العظيمة. يُقال إنه في ليالي القمر، لا يزال بإمكانك رؤية شبح عليسة تمشي بين الأطلال، تبكي على حبٍّ ضاع وإمبراطورية لم تتخيلها."
       },
       "fun_facts": {
-        "en": ["The Antonine Baths were the largest Roman baths outside Rome", "Carthage invented the alphabet that became our modern letters"],
-        "fr": ["Les thermes d'Antonin étaient les plus grands bains romains hors de Rome", "Carthage a inventé l'alphabet"],
-        "ar": ["كانت حمامات أنطونيوس أكبر حمامات رومانية خارج روما", "اخترعت قرطاج الأبجدية"]
+        "en": [
+          "The Antonine Baths were the largest Roman baths outside Rome itself",
+          "Carthaginians invented the alphabet that evolved into our modern letters",
+          "Hannibal's crossing of the Alps with 37 elephants remains one of history's greatest military feats",
+          "The Romans spread salt on Carthage's soil - though historians debate if this really happened"
+        ],
+        "fr": [
+          "Les thermes d'Antonin étaient les plus grands bains romains hors de Rome",
+          "Les Carthaginois ont inventé l'alphabet qui a évolué en nos lettres modernes",
+          "La traversée d'Hannibal des Alpes avec 37 éléphants reste l'un des plus grands exploits militaires",
+          "Les Romains auraient répandu du sel sur le sol de Carthage"
+        ],
+        "ar": [
+          "كانت حمامات أنطونيوس أكبر حمامات رومانية خارج روما نفسها",
+          "اخترع القرطاجيون الأبجدية التي تطورت إلى حروفنا الحديثة",
+          "يبقى عبور حنبعل لجبال الألب مع 37 فيلاً أحد أعظم الإنجازات العسكرية في التاريخ",
+          "نثر الرومان الملح على أرض قرطاج - رغم أن المؤرخين يتنازعون حقيقة ذلك"
+        ]
       },
       "atmosphere": {
-        "sights": ["crumbling columns against blue sky", "ancient stones", "Mediterranean view"],
-        "sounds": ["wind through columns", "distant waves", "birds"],
-        "smells": ["sea salt", "wild herbs", "ancient dust"]
-      }
+        "sights": ["crumbling columns against blue sky", "ancient stones weathered by millennia", "panoramic Mediterranean view", "mosaics peeking through earth"],
+        "sounds": ["wind whistling through columns", "distant waves crashing", "birds singing among ruins", "rustling olive trees"],
+        "smells": ["sea salt on the breeze", "wild rosemary and thyme", "ancient dust and warm stone", "Mediterranean pine"]
+      },
+      "nearby": ["sidi_bou_said"],
+      "difficulty": "easy"
     },
+
     "sidi_bou_said": {
       "name": {
         "en": "Sidi Bou Said",
@@ -40,28 +62,50 @@
       "type": "village",
       "coordinates": [36.8687, 10.3477],
       "unesco": false,
-      "keywords": ["blue", "white", "village", "doors", "cafe", "mediterranean"],
+      "region": "Greater Tunis",
+      "era": "13th century - Present",
+      "best_time": "Year-round (sunset is magical)",
+      "visit_duration_hours": 2,
+      "keywords": ["blue", "white", "village", "doors", "cafe", "mediterranean", "art"],
       "history": {
-        "en": "This clifftop village takes its name from a 13th-century Sufi saint. In 1915, Baron d'Erlanger convinced authorities to require all buildings be painted blue and white - creating the iconic look.",
-        "fr": "Ce village perché tire son nom d'un saint soufi du XIIIe siècle. En 1915, le Baron d'Erlanger a fait passer une loi exigeant le bleu et blanc.",
-        "ar": "تحمل هذه القرية اسم قديس صوفي من القرن الثالث عشر. في عام 1915، أقنع البارون السلطات بطلاء جميع المباني بالأزرق والأبيض."
+        "en": "This clifftop village takes its name from Abu Said ibn Khalef ibn Yahia Ettamimi el Beji, a 13th-century Sufi saint who retreated here for meditation. In 1915, the French musicologist Baron Rodolphe d'Erlanger fell in love with the village and convinced authorities to require all buildings be painted in the iconic blue and white - a law that still holds today. Artists from Paul Klee to August Macke have found inspiration in its luminous streets.",
+        "fr": "Ce village perché tire son nom d'Abou Saïd ibn Khalef, un saint soufi du XIIIe siècle qui s'y retira pour méditer. En 1915, le musicologue français Baron Rodolphe d'Erlanger tomba amoureux du village et fit passer une loi exigeant le bleu et blanc - une loi encore en vigueur aujourd'hui. Des artistes comme Paul Klee et August Macke y ont trouvé l'inspiration.",
+        "ar": "تحمل هذه القرية المطلة على الجرف اسم أبو سعيد بن خلف بن يحيى التميمي البجي، وهو قديس صوفي من القرن الثالث عشر اعتزل فيها للتأمل. في عام 1915، وقع عالم الموسيقى الفرنسي البارون رودولف دارلانجي في حب القرية وأقنع السلطات بإلزام طلاء جميع المباني بالأزرق والأبيض - وهو قانون لا يزال سارياً حتى اليوم. وجد فنانون من بول كلي إلى أوغست ماكي إلهامهم في شوارعها المشعّة."
       },
       "legends": {
-        "en": "Lovers who kiss beneath the famous blue door at sunset are blessed with eternal love - but only if they share a bambalouni first!",
-        "fr": "Les amoureux qui s'embrassent sous la porte bleue au coucher du soleil sont bénis d'un amour éternel!",
-        "ar": "يُقال إن العشاق الذين يتبادلون القبل تحت الباب الأزرق عند غروب الشمس مباركون بحب أبدي!"
+        "en": "Lovers who share a bambalouni (fried doughnut) beneath the famous blue door at sunset are blessed with eternal love. And if you listen carefully at Café des Nattes, you might hear the ghost of Baron d'Erlanger playing his lute, forever serenading the village he saved from modernization.",
+        "fr": "Les amoureux qui partagent un bambalouni sous la porte bleue au coucher du soleil sont bénis d'un amour éternel. Et si vous écoutez attentivement au Café des Nattes, vous entendrez peut-être le fantôme du Baron d'Erlanger jouant de son luth.",
+        "ar": "يُقال إن العشاق الذين يتشاركون بمبلوني تحت الباب الأزرق الشهير عند غروب الشمس مباركون بحبٍّ أبدي. وإذا أنصتّ جيداً في مقهى النّاطات، قد تسمع شبح البارون دارلانجي يعزف على عوده، يغنّي للأبد للقرية التي أنقذها من التحديث."
       },
       "fun_facts": {
-        "en": ["It's illegal to paint your house any other color", "Café des Nattes has served mint tea since 1750"],
-        "fr": ["Il est illégal de peindre sa maison d'une autre couleur", "Le Café des Nattes sert du thé depuis 1750"],
-        "ar": ["من غير القانوني طلاء منزلك بلون آخر", "مقهى النّاطات يقدم الشاي منذ 1750"]
+        "en": [
+          "It's illegal to paint your house any color other than blue and white since 1915",
+          "Café des Nattes has been serving mint tea since 1750",
+          "Paul Klee visited in 1914 and said: 'Color possesses me. I am a painter.'",
+          "The village has inspired more paintings than any other place in Tunisia"
+        ],
+        "fr": [
+          "Il est illégal de peindre sa maison d'une autre couleur depuis 1915",
+          "Le Café des Nattes sert du thé à la menthe depuis 1750",
+          "Paul Klee visita en 1914 et dit: 'La couleur me possède. Je suis peintre.'",
+          "Le village a inspiré plus de peintures que tout autre lieu en Tunisie"
+        ],
+        "ar": [
+          "من غير القانوني طلاء منزلك بلون غير الأزرق والأبيض منذ عام 1915",
+          "مقهى النّاطات يقدم الشاي بالنعناع منذ عام 1750",
+          "زار بول كلي القرية عام 1914 وقال: 'اللون يمتلكني. أنا رسام.'",
+          "ألهمت القرية لوحات أكثر من أي مكان آخر في تونس"
+        ]
       },
       "atmosphere": {
-        "sights": ["blue doors", "white walls", "bougainvillea", "Mediterranean view"],
-        "sounds": ["seagulls", "cafe chatter", "waves below"],
-        "smells": ["jasmine", "sea breeze", "mint tea", "bambalouni"]
-      }
+        "sights": ["cobalt blue doors with black iron studs", "whitewashed walls dripping bougainvillea", "Mediterranean stretching to infinity", "narrow cobblestone alleys"],
+        "sounds": ["seagulls crying", "animated cafe chatter", "waves crashing far below", "distant oud music"],
+        "smells": ["jasmine in every corner", "fresh mint tea brewing", "hot bambalouni and sugar", "sea breeze through alleys"]
+      },
+      "nearby": ["carthage"],
+      "difficulty": "easy"
     },
+
     "el_jem_amphitheater": {
       "name": {
         "en": "Amphitheater of El Jem",
@@ -71,59 +115,529 @@
       "type": "monument",
       "coordinates": [35.2961, 10.7067],
       "unesco": true,
-      "keywords": ["colosseum", "amphitheater", "roman", "gladiator", "arena"],
+      "region": "Sahel",
+      "era": "238 AD",
+      "best_time": "Early morning or golden hour",
+      "visit_duration_hours": 2,
+      "keywords": ["colosseum", "amphitheater", "roman", "gladiator", "arena", "sandstone"],
       "history": {
-        "en": "The third-largest Roman amphitheater ever built and the best preserved. Constructed around 238 AD, it could seat 35,000 spectators who watched gladiatorial combat.",
-        "fr": "Le troisième plus grand amphithéâtre romain jamais construit et le mieux conservé. Construit vers 238 après J.-C., il pouvait accueillir 35 000 spectateurs.",
-        "ar": "ثالث أكبر مدرج روماني تم بناؤه على الإطلاق والأفضل حفظًا. بُني حوالي عام 238 ميلادي، وكان يستوعب 35,000 متفرج."
+        "en": "The third-largest Roman amphitheater ever built and by far the best preserved in the world. Constructed around 238 AD under proconsul Gordian I, it could seat 35,000 spectators who watched gladiatorial combat and wild animal hunts. Unlike Rome's Colosseum, El Jem's amphitheater never suffered earthquakes - its remarkable preservation lets you walk the exact tunnels where gladiators awaited their fate.",
+        "fr": "Le troisième plus grand amphithéâtre romain jamais construit et de loin le mieux conservé au monde. Construit vers 238 après J.-C. sous le proconsul Gordien Ier, il pouvait accueillir 35 000 spectateurs pour les combats de gladiateurs. Contrairement au Colisée de Rome, l'amphithéâtre d'El Jem n'a jamais subi de tremblements de terre.",
+        "ar": "ثالث أكبر مدرج روماني تم بناؤه على الإطلاق والأفضل حفظاً في العالم بلا منازع. بُني حوالي عام 238 ميلادي في عهد الوالي غورديان الأول، وكان يستوعب 35,000 متفرج يشاهدون معارك المصارعين وصيد الحيوانات البرية. على عكس كولوسيوم روما، لم يتعرض مدرج الجم لزلازل قط - حفظه المذهل يتيح لك السير في الأنفاق ذاتها التي انتظر فيها المصارعون مصيرهم."
       },
       "legends": {
-        "en": "Local legend speaks of a secret underground tunnel stretching 40 kilometers to Mahdia. On quiet nights, residents claim to hear the roar of crowds echoing from the empty arena.",
-        "fr": "La légende locale parle d'un tunnel secret de 40 kilomètres jusqu'à Mahdia. Les nuits calmes, on entend le rugissement des foules.",
-        "ar": "تتحدث الأسطورة عن نفق سري يمتد 40 كيلومترًا إلى المهدية. في الليالي الهادئة، يسمع السكان هدير الحشود."
+        "en": "Local legend speaks of a secret underground tunnel stretching 40 kilometers to Mahdia on the coast. Rebels, pirates, and lovers have all supposedly used this hidden passage. On quiet nights, old residents of El Jem claim to hear the ghostly roar of ancient crowds echoing from the empty arena, and some say the spirits of gladiators still compete under moonlight.",
+        "fr": "La légende locale parle d'un tunnel secret de 40 kilomètres jusqu'à Mahdia sur la côte. Des rebelles, pirates et amoureux auraient emprunté ce passage caché. Les nuits calmes, les anciens d'El Jem affirment entendre le rugissement spectral des foules antiques.",
+        "ar": "تتحدث الأسطورة المحلية عن نفق سري يمتد 40 كيلومتراً إلى المهدية على الساحل. يُقال إن المتمردين والقراصنة والعشاق استخدموا جميعاً هذا الممر الخفي. في الليالي الهادئة، يدّعي كبار سكان الجم أنهم يسمعون هدير أشباح الحشود القديمة يتردد في الحلبة الفارغة، ويقول البعض إن أرواح المصارعين لا تزال تتنافس تحت ضوء القمر."
       },
       "fun_facts": {
-        "en": ["Better preserved than Rome's Colosseum", "Movies like Gladiator used it for inspiration"],
-        "fr": ["Mieux conservé que le Colisée de Rome", "Des films comme Gladiator s'en sont inspirés"],
-        "ar": ["محفوظ أفضل من كولوسيوم روما", "استلهمت منه أفلام مثل غلادياتور"]
+        "en": [
+          "Better preserved than Rome's Colosseum - you can still see the underground rooms intact",
+          "Ridley Scott's Gladiator drew direct inspiration from El Jem's architecture",
+          "It was built in a small town - historians still debate why such a grand structure was placed here",
+          "The amphitheater hosts a world-famous symphonic music festival every summer"
+        ],
+        "fr": [
+          "Mieux conservé que le Colisée de Rome - les salles souterraines sont encore intactes",
+          "Le Gladiator de Ridley Scott s'est directement inspiré de l'architecture d'El Jem",
+          "Il a été construit dans une petite ville - les historiens débattent encore pourquoi",
+          "L'amphithéâtre accueille un festival de musique symphonique chaque été"
+        ],
+        "ar": [
+          "محفوظ أفضل من كولوسيوم روما - لا تزال الغرف السفلية سليمة",
+          "استلهم فيلم المصارع لريدلي سكوت مباشرة من عمارة قصر الجم",
+          "بُني في بلدة صغيرة - لا يزال المؤرخون يتناقشون لماذا أُقيم هذا الصرح العظيم هنا",
+          "يستضيف المدرج مهرجاناً عالمياً للموسيقى السمفونية كل صيف"
+        ]
       },
       "atmosphere": {
-        "sights": ["towering arches", "underground passages", "vast arena", "golden sandstone"],
-        "sounds": ["wind through arches", "echoing footsteps", "birds nesting"],
-        "smells": ["hot stone", "dry dust", "wild herbs"]
-      }
+        "sights": ["towering golden arches against blue sky", "labyrinthine underground passages", "vast elliptical arena floor", "weathered sandstone glowing at sunset"],
+        "sounds": ["wind howling through arches", "echoing footsteps in tunnels", "birds nesting in ancient stone", "silence that amplifies imagination"],
+        "smells": ["sun-baked stone", "dry desert dust", "wild herbs growing in cracks", "heat radiating from golden walls"]
+      },
+      "nearby": [],
+      "difficulty": "easy"
+    },
+
+    "dougga": {
+      "name": {
+        "en": "Dougga (Thugga)",
+        "fr": "Dougga (Thugga)",
+        "ar": "دقة (توقا)"
+      },
+      "type": "archaeological_site",
+      "coordinates": [36.4225, 9.2189],
+      "unesco": true,
+      "region": "Northern Tunisia",
+      "era": "4th century BC - 6th century AD",
+      "best_time": "Spring wildflower season (March-April)",
+      "visit_duration_hours": 3,
+      "keywords": ["roman", "ruins", "theater", "temple", "hilltop", "capitol", "best-preserved"],
+      "history": {
+        "en": "Dougga is the best-preserved Roman small town in North Africa, perched on a hilltop overlooking olive groves and wheat fields. Originally a Numidian settlement, it became a thriving Roman city with a Capitol temple, theater seating 3,500, and elaborate public baths. The Libyco-Punic Mausoleum predates the Roman era and stands as one of the few surviving examples of pre-Roman architecture in Tunisia.",
+        "fr": "Dougga est la petite ville romaine la mieux conservée d'Afrique du Nord, perchée sur une colline surplombant oliveraies et champs de blé. À l'origine un établissement numide, elle devint une ville romaine florissante avec un temple du Capitole, un théâtre de 3 500 places et des bains publics élaborés.",
+        "ar": "دقة هي أفضل مدينة رومانية صغيرة محفوظة في شمال أفريقيا، تقع على قمة تل يطل على بساتين الزيتون وحقول القمح. كانت في الأصل مستوطنة نوميدية، ثم أصبحت مدينة رومانية مزدهرة تضم معبد الكابيتول ومسرحاً يتسع لـ 3,500 متفرج وحمامات عامة فخمة. يعود الضريح الليبي-البوني إلى ما قبل العصر الروماني ويقف شاهداً على العمارة ما قبل الرومانية في تونس."
+      },
+      "legends": {
+        "en": "The ancient theater of Dougga is said to have perfect acoustics by design of the gods. Local legend claims that if you stand at the center of the stage and whisper your deepest wish, the wind will carry it to the heavens. Farmers in the surrounding hills say that on the summer solstice, the ghosts of Numidian kings hold court on Byrsa Hill at midnight.",
+        "fr": "Le théâtre antique de Dougga aurait une acoustique parfaite conçue par les dieux. La légende locale dit que si vous vous tenez au centre de la scène et chuchotez votre vœu le plus cher, le vent le portera aux cieux.",
+        "ar": "يُقال إن المسرح القديم في دقة يتمتع بصوتيات مثالية صممتها الآلهة. تقول الأسطورة المحلية إنك إذا وقفت في وسط المسرح وهمست بأعمق أمنياتك، سيحملها الريح إلى السماء. ويقول المزارعون في التلال المحيطة إنه في الانقلاب الصيفي، تعقد أشباح الملوك النوميديين مجلسهم عند منتصف الليل."
+      },
+      "fun_facts": {
+        "en": [
+          "The Capitol temple columns are still standing after nearly 2,000 years",
+          "Dougga's theater still hosts performances - the acoustics remain perfect",
+          "The town's Roman toilets were communal and considered a social gathering place",
+          "It was a UNESCO World Heritage Site since 1997"
+        ],
+        "fr": [
+          "Les colonnes du temple du Capitole sont encore debout après près de 2000 ans",
+          "Le théâtre de Dougga accueille encore des spectacles",
+          "Les toilettes romaines étaient communales et un lieu de rencontre sociale",
+          "C'est un site du patrimoine mondial de l'UNESCO depuis 1997"
+        ],
+        "ar": [
+          "لا تزال أعمدة معبد الكابيتول قائمة بعد ما يقرب من 2000 عام",
+          "لا يزال مسرح دقة يستضيف عروضاً - تظل الصوتيات مثالية",
+          "كانت المراحيض الرومانية في المدينة جماعية واعتُبرت مكاناً للتجمع الاجتماعي",
+          "أُدرجت ضمن مواقع التراث العالمي لليونسكو منذ عام 1997"
+        ]
+      },
+      "atmosphere": {
+        "sights": ["sprawling ruins on green hillside", "Capitol temple against rolling clouds", "wildflowers growing through ancient stones", "panoramic valley views"],
+        "sounds": ["wind sweeping across hilltop", "birdsong from olive groves", "sheep bells in the distance", "silence of centuries"],
+        "smells": ["wildflowers and grass", "olive trees", "warm limestone", "fresh country air"]
+      },
+      "nearby": [],
+      "difficulty": "moderate"
+    },
+
+    "medina_tunis": {
+      "name": {
+        "en": "Medina of Tunis",
+        "fr": "Médina de Tunis",
+        "ar": "المدينة العتيقة بتونس"
+      },
+      "type": "historic_quarter",
+      "coordinates": [36.7992, 10.1706],
+      "unesco": true,
+      "region": "Tunis",
+      "era": "698 AD - Present",
+      "best_time": "Morning for markets, evening for atmosphere",
+      "visit_duration_hours": 4,
+      "keywords": ["medina", "souk", "market", "mosque", "zitouna", "crafts", "old city"],
+      "history": {
+        "en": "The Medina of Tunis is one of the first Arab-Muslim cities in the Maghreb, founded in 698 AD around the great Zitouna Mosque. With over 700 historic monuments including palaces, mosques, mausoleums, and fountains, its labyrinthine souks have been the beating heart of Tunisian culture for 13 centuries. Each souk specializes in a trade - perfumers, booksellers, silk merchants, and coppersmiths each have their own alley.",
+        "fr": "La Médina de Tunis est l'une des premières villes arabo-musulmanes du Maghreb, fondée en 698 après J.-C. autour de la grande mosquée Zitouna. Avec plus de 700 monuments historiques, ses souks labyrinthiques sont le cœur battant de la culture tunisienne depuis 13 siècles.",
+        "ar": "المدينة العتيقة بتونس هي إحدى أولى المدن العربية الإسلامية في المغرب العربي، تأسست عام 698 ميلادي حول جامع الزيتونة العظيم. تضم أكثر من 700 معلم تاريخي بما في ذلك القصور والمساجد والأضرحة والنوافير، وظلت أسواقها المتاهية القلب النابض للثقافة التونسية منذ 13 قرناً. كل سوق متخصص في حرفة - العطارون وبائعو الكتب وتجار الحرير والنحاسون لكل منهم زقاقه الخاص."
+      },
+      "legends": {
+        "en": "Deep within the medina, there is said to be a hidden courtyard called the 'Garden of Whispers.' Legend says that the founders of the Zitouna Mosque buried a sacred olive branch beneath its foundation - and that as long as this branch remains undisturbed, the medina will stand eternal. Local shopkeepers swear that the oldest walls talk at night, sharing trade secrets of generations past.",
+        "fr": "Au cœur de la médina, il existerait une cour cachée appelée le 'Jardin des Murmures.' La légende dit que les fondateurs de la mosquée Zitouna enterrèrent une branche d'olivier sacrée sous ses fondations.",
+        "ar": "في أعماق المدينة العتيقة، يُقال إن هناك فناءً مخفياً يُسمى 'حديقة الهمسات'. تقول الأسطورة أن مؤسسي جامع الزيتونة دفنوا غصن زيتون مقدساً تحت أساساته - وما دام هذا الغصن لم يُمَس، ستبقى المدينة خالدة. يُقسم التجار القدامى أن أقدم الجدران تتحدث ليلاً، تُشارك أسرار الحِرَف من أجيال مضت."
+      },
+      "fun_facts": {
+        "en": [
+          "The Zitouna Mosque was also one of the great universities of the Islamic world",
+          "The souk system has remained virtually unchanged for over 1,000 years",
+          "Each trade guild had strict quality control - bad work could get you banned",
+          "The medina has 36 main gates, many still standing"
+        ],
+        "fr": [
+          "La mosquée Zitouna était aussi l'une des grandes universités du monde islamique",
+          "Le système des souks est resté pratiquement inchangé depuis plus de 1000 ans",
+          "Chaque guilde avait un contrôle qualité strict",
+          "La médina compte 36 portes principales, beaucoup encore debout"
+        ],
+        "ar": [
+          "كان جامع الزيتونة أيضاً إحدى الجامعات الكبرى في العالم الإسلامي",
+          "ظل نظام الأسواق دون تغيير تقريباً منذ أكثر من 1000 عام",
+          "كان لكل نقابة حرفية رقابة صارمة على الجودة - العمل الرديء قد يعني الطرد",
+          "تضم المدينة العتيقة 36 باباً رئيسياً، كثير منها لا يزال قائماً"
+        ]
+      },
+      "atmosphere": {
+        "sights": ["narrow winding alleys", "ornate doorways and tilework", "sunlight filtering through covered souks", "artisans at work in tiny workshops"],
+        "sounds": ["merchants calling their wares", "hammering of copper artisans", "call to prayer echoing", "haggling and laughter"],
+        "smells": ["frankincense and oud", "fresh leather", "roasting coffee beans", "spices and dried flowers"]
+      },
+      "nearby": [],
+      "difficulty": "easy"
+    },
+
+    "matmata": {
+      "name": {
+        "en": "Matmata",
+        "fr": "Matmata",
+        "ar": "مطماطة"
+      },
+      "type": "troglodyte_village",
+      "coordinates": [33.5444, 9.9717],
+      "unesco": false,
+      "region": "Southern Tunisia",
+      "era": "Unknown - centuries old",
+      "best_time": "Autumn (October-November)",
+      "visit_duration_hours": 3,
+      "keywords": ["troglodyte", "cave", "underground", "star wars", "berber", "desert"],
+      "history": {
+        "en": "Matmata's Amazigh (Berber) inhabitants carved their homes into the soft sandstone earth centuries ago, creating extraordinary underground dwellings around crater-like courtyards. These troglodyte homes maintain a constant cool temperature in the scorching Saharan heat. The village gained worldwide fame when George Lucas chose it as the filming location for Luke Skywalker's home planet Tatooine in Star Wars - a name borrowed from the nearby town of Tataouine.",
+        "fr": "Les habitants amazighs (berbères) de Matmata ont creusé leurs maisons dans la roche tendre il y a des siècles, créant des habitations souterraines extraordinaires autour de cours en forme de cratère. George Lucas a choisi ce lieu pour filmer la planète Tatooine de Luke Skywalker dans Star Wars.",
+        "ar": "نحت سكان مطماطة الأمازيغ منازلهم في الصخور الرملية الناعمة منذ قرون، مبتكرين مساكن تحت أرضية استثنائية حول أفنية تشبه الفوهات البركانية. تحافظ هذه المنازل الكهفية على درجة حرارة ثابتة ومعتدلة في حر الصحراء الحارق. اكتسبت القرية شهرة عالمية عندما اختارها جورج لوكاس موقعاً لتصوير كوكب تاتوين، موطن لوك سكاي ووكر في حرب النجوم - وهو اسم مستعار من مدينة تطاوين القريبة."
+      },
+      "legends": {
+        "en": "The Amazigh elders say the first cave homes were dug by a giant woman named Guellala, who scooped the earth with her bare hands to shelter her children from a great sandstorm. They say the caves remember her strength, which is why no storm has ever collapsed one. Visitors sometimes report hearing ancient Amazigh songs echoing from empty rooms - the caves singing themselves to sleep.",
+        "fr": "Les anciens amazighs racontent que les premières maisons troglodytes furent creusées par une géante nommée Guellala, qui creusa la terre à mains nues pour protéger ses enfants d'une grande tempête de sable.",
+        "ar": "يقول الحكماء الأمازيغ أن أول المنازل الكهفية حفرتها امرأة عملاقة اسمها قلالة، التي جرفت الأرض بيديها العاريتين لتحمي أطفالها من عاصفة رملية عظيمة. يقولون إن الكهوف تتذكر قوتها، ولهذا لم تنهَر أي عاصفة كهفاً قط. يحكي بعض الزوار أنهم يسمعون أغاني أمازيغية قديمة تتردد من غرف فارغة - الكهوف تغني نفسها للنوم."
+      },
+      "fun_facts": {
+        "en": [
+          "The Hotel Sidi Driss was used as Luke Skywalker's home in Star Wars - you can still visit it",
+          "Underground rooms stay a comfortable 20°C even when it's 45°C outside",
+          "The village was 'discovered' by the outside world only after floods in 1967",
+          "Some families still live in traditional troglodyte homes today"
+        ],
+        "fr": [
+          "L'Hôtel Sidi Driss a servi de maison de Luke Skywalker dans Star Wars",
+          "Les pièces souterraines restent à 20°C même quand il fait 45°C dehors",
+          "Le village n'a été 'découvert' qu'après les inondations de 1967",
+          "Certaines familles vivent encore dans des maisons troglodytes traditionnelles"
+        ],
+        "ar": [
+          "استُخدم فندق سيدي دريس كمنزل لوك سكاي ووكر في حرب النجوم - يمكنك زيارته",
+          "تبقى الغرف تحت الأرضية في درجة حرارة مريحة 20 درجة حتى لو كان الجو 45 درجة بالخارج",
+          "لم يكتشف العالم الخارجي القرية إلا بعد فيضانات عام 1967",
+          "لا تزال بعض العائلات تعيش في منازل كهفية تقليدية حتى اليوم"
+        ]
+      },
+      "atmosphere": {
+        "sights": ["circular craters carved in earth", "whitewashed underground rooms", "palm trees in courtyards", "vast desert stretching to horizon"],
+        "sounds": ["wind whistling across desert", "goats bleating", "women weaving", "profound silence of the earth"],
+        "smells": ["dry earth", "bread baking underground", "olive oil", "desert sage"]
+      },
+      "nearby": ["tozeur"],
+      "difficulty": "moderate"
+    },
+
+    "kairouan": {
+      "name": {
+        "en": "Great Mosque of Kairouan",
+        "fr": "Grande Mosquée de Kairouan",
+        "ar": "جامع عقبة بن نافع بالقيروان"
+      },
+      "type": "mosque",
+      "coordinates": [35.6812, 10.1044],
+      "unesco": true,
+      "region": "Central Tunisia",
+      "era": "670 AD - Present",
+      "best_time": "Early morning for spiritual atmosphere",
+      "visit_duration_hours": 2,
+      "keywords": ["mosque", "islamic", "holy", "architecture", "minaret", "prayer", "kairouan"],
+      "history": {
+        "en": "Founded in 670 AD by Arab general Uqba ibn Nafi, the Great Mosque of Kairouan is the oldest mosque in the Maghreb and one of the most important in the Islamic world. Kairouan itself is considered the fourth holiest city in Islam. The mosque's massive courtyard, forest of ancient columns salvaged from Roman and Byzantine ruins, and distinctive minaret have inspired mosque architecture across North Africa and Andalusia for over a millennium.",
+        "fr": "Fondée en 670 après J.-C. par le général arabe Oqba ibn Nafi, la Grande Mosquée de Kairouan est la plus ancienne mosquée du Maghreb et l'une des plus importantes du monde islamique. Kairouan est considérée comme la quatrième ville sainte de l'Islam.",
+        "ar": "تأسس جامع عقبة بن نافع عام 670 ميلادي على يد القائد العربي عقبة بن نافع، وهو أقدم مسجد في المغرب العربي وأحد أهم المساجد في العالم الإسلامي. تُعتبر القيروان نفسها رابع أقدس مدينة في الإسلام. ألهم فناء المسجد الشاسع وغابة الأعمدة القديمة المأخوذة من آثار رومانية وبيزنطية ومئذنته المميزة عمارة المساجد في شمال أفريقيا والأندلس لأكثر من ألف عام."
+      },
+      "legends": {
+        "en": "When Uqba ibn Nafi chose the site, he struck the ground with his staff and a spring of water burst forth - the same spring, they say, that connects underground to the holy well of Zamzam in Mecca. It is said that seven pilgrimages to Kairouan equal one Hajj to Mecca, and that the mosque's mihrab was positioned by divine guidance, perfectly aligned with the Kaaba.",
+        "fr": "Quand Oqba ibn Nafi choisit le site, il frappa le sol de son bâton et une source d'eau jaillit - la même source, dit-on, qui est reliée sous terre au puits sacré de Zamzam à La Mecque.",
+        "ar": "عندما اختار عقبة بن نافع الموقع، ضرب الأرض بعصاه فتفجرت عين ماء - العين نفسها، كما يُقال، التي تتصل تحت الأرض ببئر زمزم المقدس في مكة. يُقال إن سبع حجات إلى القيروان تعادل حجة واحدة إلى مكة، وأن محراب المسجد وُضع بتوجيه إلهي، محاذياً بدقة للكعبة المشرفة."
+      },
+      "fun_facts": {
+        "en": [
+          "The mosque contains 414 ancient columns, each different, salvaged from Roman ruins",
+          "Seven pilgrimages to Kairouan are traditionally said to equal one Hajj to Mecca",
+          "The minaret is one of the oldest standing minarets in the world",
+          "Kairouan is also famous for its makroudh - date-filled pastries"
+        ],
+        "fr": [
+          "La mosquée contient 414 colonnes antiques, chacune différente",
+          "Sept pèlerinages à Kairouan équivaudraient à un Hajj à La Mecque",
+          "Le minaret est l'un des plus anciens minarets debout au monde",
+          "Kairouan est aussi célèbre pour ses makroudh - pâtisseries aux dattes"
+        ],
+        "ar": [
+          "يحتوي المسجد على 414 عموداً قديماً، كل واحد مختلف، مأخوذة من آثار رومانية",
+          "يُقال تقليدياً إن سبع حجات إلى القيروان تعادل حجة إلى مكة",
+          "تُعد المئذنة من أقدم المآذن القائمة في العالم",
+          "تشتهر القيروان أيضاً بالمقروض - حلوى محشوة بالتمر"
+        ]
+      },
+      "atmosphere": {
+        "sights": ["vast marble courtyard", "forest of mismatched ancient columns", "massive stone minaret", "intricate geometric tilework"],
+        "sounds": ["call to prayer echoing", "fountain trickling in courtyard", "pigeons cooing", "footsteps on marble"],
+        "smells": ["incense and rosewater", "old stone and wood", "fresh jasmine garlands", "nearby bakeries"]
+      },
+      "nearby": [],
+      "difficulty": "easy"
+    },
+
+    "tozeur": {
+      "name": {
+        "en": "Tozeur Oasis",
+        "fr": "Oasis de Tozeur",
+        "ar": "واحة توزر"
+      },
+      "type": "oasis_city",
+      "coordinates": [33.9197, 8.1339],
+      "unesco": false,
+      "region": "Southern Tunisia",
+      "era": "Ancient - Present",
+      "best_time": "November-March (cooler months)",
+      "visit_duration_hours": 5,
+      "keywords": ["oasis", "palm", "desert", "sahara", "bricks", "chott", "dates"],
+      "history": {
+        "en": "Tozeur is an ancient oasis city on the edge of the Sahara, known for over 2,000 years as a vital stop on trans-Saharan trade routes. Its palm grove shelters over 400,000 date palms irrigated by 200 springs using a millennium-old water distribution system. The old quarter (Ouled el-Hadef) features stunning brickwork architecture unique to the region, with geometric patterns that play with light and shadow throughout the day. Nearby Chott el Jerid, a vast salt lake, creates otherworldly mirages.",
+        "fr": "Tozeur est une ancienne cité oasis au bord du Sahara, connue depuis plus de 2000 ans comme étape vitale sur les routes commerciales transsahariennes. Sa palmeraie abrite plus de 400 000 palmiers dattiers irrigués par 200 sources.",
+        "ar": "توزر مدينة واحات قديمة على حافة الصحراء الكبرى، عُرفت منذ أكثر من 2000 عام كمحطة حيوية على طرق التجارة عبر الصحراء. تحتضن واحة النخيل أكثر من 400,000 نخلة تمر تُروى بـ 200 عين باستخدام نظام توزيع مياه عمره ألف عام. يتميز الحي القديم (أولاد الحديف) بعمارة آجرية مذهلة فريدة في المنطقة، بأنماط هندسية تتلاعب بالضوء والظل طوال اليوم. يخلق شط الجريد القريب، وهو بحيرة ملحية شاسعة، سراباً من عالم آخر."
+      },
+      "legends": {
+        "en": "The oasis people tell of a secret underground river beneath the Sahara that feeds all the springs of Tozeur. They say a djinn guards the river's source, and only those who approach the springs with gratitude will find their water sweet. Travelers crossing Chott el Jerid speak of phantom caravans appearing in the mirages - ghostly camels carrying treasures that vanish when you blink.",
+        "fr": "Les gens de l'oasis racontent qu'une rivière souterraine secrète sous le Sahara alimente toutes les sources de Tozeur. Ils disent qu'un djinn garde la source de la rivière.",
+        "ar": "يحكي أهل الواحة عن نهر سري تحت الأرض يمتد تحت الصحراء ويغذي جميع عيون توزر. يقولون إن جنياً يحرس منبع النهر، وأن الماء لا يكون عذباً إلا لمن يقترب بامتنان. يتحدث المسافرون عبر شط الجريد عن قوافل شبحية تظهر في السراب - جِمال أشباح تحمل كنوزاً تتلاشى حين تطرف عينك."
+      },
+      "fun_facts": {
+        "en": [
+          "Tozeur produces some of the world's finest Deglet Nour dates - the 'fingers of light'",
+          "The brickwork patterns in old Tozeur encode hidden Sufi mystical symbols",
+          "Chott el Jerid was used as a filming location for Star Wars",
+          "The oasis irrigation system operates without any mechanical pumps"
+        ],
+        "fr": [
+          "Tozeur produit certaines des meilleures dattes Deglet Nour du monde",
+          "Les motifs de briques du vieux Tozeur cachent des symboles mystiques soufis",
+          "Le Chott el Jérid a servi de lieu de tournage pour Star Wars",
+          "Le système d'irrigation de l'oasis fonctionne sans pompes mécaniques"
+        ],
+        "ar": [
+          "تنتج توزر بعضاً من أجود تمور دقلة النور في العالم - 'أصابع النور'",
+          "تُخفي أنماط الآجر في توزر القديمة رموزاً صوفية سرية",
+          "استُخدم شط الجريد كموقع تصوير لأفلام حرب النجوم",
+          "يعمل نظام ري الواحة بدون أي مضخات ميكانيكية"
+        ]
+      },
+      "atmosphere": {
+        "sights": ["endless palm groves", "golden brick geometric patterns", "shimmering salt lake mirages", "Saharan sunset in rose and gold"],
+        "sounds": ["palm fronds rustling", "irrigation channels trickling", "desert wind", "birds in the oasis canopy"],
+        "smells": ["ripe dates", "warm desert sand", "palm blossom", "mint tea in the shade"]
+      },
+      "nearby": ["matmata"],
+      "difficulty": "moderate"
     }
   },
+
   "story_modes": {
     "historian": {
       "name": {"en": "The Historian", "fr": "L'Historien", "ar": "المؤرخ"},
       "emoji": "🏛️",
-      "tone": "scholarly, informative, factual"
+      "tone": "scholarly, informative, factual",
+      "description": {
+        "en": "Factual storytelling with rich historical detail",
+        "fr": "Narration factuelle avec détails historiques riches",
+        "ar": "سرد واقعي مع تفاصيل تاريخية غنية"
+      }
     },
     "legend_keeper": {
       "name": {"en": "The Legend Keeper", "fr": "Le Gardien des Légendes", "ar": "حارس الأساطير"},
       "emoji": "👻",
-      "tone": "mysterious, enchanting, mythical"
+      "tone": "mysterious, enchanting, mythical",
+      "description": {
+        "en": "Ancient myths and local folklore come alive",
+        "fr": "Mythes anciens et folklore local prennent vie",
+        "ar": "الأساطير القديمة والفلكلور المحلي ينبضان بالحياة"
+      }
     },
     "time_traveler": {
       "name": {"en": "The Time Traveler", "fr": "Le Voyageur du Temps", "ar": "المسافر عبر الزمن"},
       "emoji": "⚔️",
-      "tone": "immersive, present-tense, dramatic"
+      "tone": "immersive, present-tense, dramatic",
+      "description": {
+        "en": "You ARE there, living the moment in history",
+        "fr": "Vous ÊTES là, vivant le moment historique",
+        "ar": "أنت هناك، تعيش اللحظة التاريخية"
+      }
     },
     "romantic": {
       "name": {"en": "The Romantic", "fr": "Le Romantique", "ar": "الرومانسي"},
       "emoji": "💕",
-      "tone": "poetic, emotional, beautiful"
+      "tone": "poetic, emotional, beautiful",
+      "description": {
+        "en": "Love, beauty, and timeless emotion",
+        "fr": "Amour, beauté et émotion intemporelle",
+        "ar": "حب وجمال وعاطفة خالدة"
+      }
     },
     "kids_adventure": {
       "name": {"en": "Kids Adventure", "fr": "Aventure Enfants", "ar": "مغامرة للأطفال"},
       "emoji": "👶",
-      "tone": "fun, simple, exciting"
+      "tone": "fun, simple, exciting",
+      "description": {
+        "en": "History as an exciting adventure for young minds",
+        "fr": "L'histoire comme aventure pour jeunes esprits",
+        "ar": "التاريخ كمغامرة مثيرة للعقول الصغيرة"
+      }
     },
     "movie_director": {
       "name": {"en": "The Director", "fr": "Le Réalisateur", "ar": "المخرج"},
       "emoji": "🎬",
-      "tone": "cinematic, visual, dramatic"
+      "tone": "cinematic, visual, dramatic",
+      "description": {
+        "en": "Experience history as a blockbuster film",
+        "fr": "Vivez l'histoire comme un film à succès",
+        "ar": "عِش التاريخ كفيلم سينمائي ملحمي"
+      }
+    }
+  },
+
+  "ui_text": {
+    "en": {
+      "app_title": "Tounes.AI",
+      "app_subtitle": "Transform Tunisian Landmarks into Immersive Stories",
+      "step1": "Step 1: Choose Landmark",
+      "step2": "Step 2: Personalize Your Story",
+      "step3": "Step 3: Choose Storytelling Style",
+      "upload_photo": "Upload Photo",
+      "choose_from_list": "Choose from List",
+      "upload_prompt": "Upload a photo of a Tunisian landmark",
+      "your_name": "Your Name",
+      "name_placeholder": "Enter your name...",
+      "companion_label": "Who are you with?",
+      "language_label": "Story Language",
+      "generate_btn": "✨ Create My Story",
+      "generating": "Tounes is weaving your story...",
+      "listen_title": "Listen to Your Story",
+      "generate_audio_btn": "🎧 Generate Audio Narration",
+      "share_title": "Share Your Experience",
+      "fun_facts_title": "Did You Know?",
+      "download_btn": "Download Story",
+      "new_story_btn": "Create New Story",
+      "identified": "Identified",
+      "unknown_landmark": "Landmark not recognized. Choose manually:",
+      "choose_landmark": "Choose a landmark",
+      "settings": "Settings",
+      "api_key_label": "Groq API Key",
+      "api_key_help": "Get your free key at console.groq.com",
+      "enter_api_key": "Enter your API key to start",
+      "api_ready": "Ready to go!",
+      "quality_settings": "Quality Settings",
+      "auto_retry": "Auto-retry for quality",
+      "show_quality": "Show quality indicators",
+      "about_title": "About Tounes",
+      "about_text": "Tounes is the AI storyteller\nthat transforms Tunisian landmarks\ninto immersive, personalized stories.\n\nBuilt for AINC'26 🇹🇳",
+      "your_story": "Your Story",
+      "quality_details": "Quality Details",
+      "word_count": "Word Count",
+      "language_purity": "Language Purity",
+      "structure": "Structure",
+      "recording": "Recording narration...",
+      "journey_to": "'s Journey to",
+      "powered_by": "Powered by Tounes.AI 📖",
+      "companions": {
+        "solo": "🚶 Traveling Solo",
+        "couple": "💑 With Partner",
+        "family": "👨‍👩‍👧‍👦 With Family",
+        "friends": "👥 With Friends"
+      },
+      "how_to_get_key": "**How to get a free key:**\n1. Go to [console.groq.com](https://console.groq.com)\n2. Sign in with Google\n3. Copy your API key"
+    },
+    "fr": {
+      "app_title": "Tounes.AI",
+      "app_subtitle": "Transformez les monuments tunisiens en histoires immersives",
+      "step1": "Étape 1 : Choisir le monument",
+      "step2": "Étape 2 : Personnaliser votre histoire",
+      "step3": "Étape 3 : Choisir le style narratif",
+      "upload_photo": "Télécharger une photo",
+      "choose_from_list": "Choisir dans la liste",
+      "upload_prompt": "Téléchargez une photo d'un monument tunisien",
+      "your_name": "Votre nom",
+      "name_placeholder": "Entrez votre nom...",
+      "companion_label": "Avec qui êtes-vous ?",
+      "language_label": "Langue de l'histoire",
+      "generate_btn": "✨ Créer mon histoire",
+      "generating": "Tounes tisse votre histoire...",
+      "listen_title": "Écoutez votre histoire",
+      "generate_audio_btn": "🎧 Générer la narration audio",
+      "share_title": "Partagez votre expérience",
+      "fun_facts_title": "Le saviez-vous ?",
+      "download_btn": "Télécharger l'histoire",
+      "new_story_btn": "Créer une nouvelle histoire",
+      "identified": "Identifié",
+      "unknown_landmark": "Monument non reconnu. Choisissez manuellement :",
+      "choose_landmark": "Choisir un monument",
+      "settings": "Paramètres",
+      "api_key_label": "Clé API Groq",
+      "api_key_help": "Obtenez votre clé gratuite sur console.groq.com",
+      "enter_api_key": "Entrez votre clé API pour commencer",
+      "api_ready": "Prêt !",
+      "quality_settings": "Paramètres de qualité",
+      "auto_retry": "Réessai automatique",
+      "show_quality": "Afficher les indicateurs de qualité",
+      "about_title": "À propos de Tounes",
+      "about_text": "Tounes est le conteur IA\nqui transforme les monuments tunisiens\nen histoires immersives et personnalisées.\n\nCréé pour AINC'26 🇹🇳",
+      "your_story": "Votre histoire",
+      "quality_details": "Détails de qualité",
+      "word_count": "Nombre de mots",
+      "language_purity": "Pureté linguistique",
+      "structure": "Structure",
+      "recording": "Enregistrement en cours...",
+      "journey_to": " — Voyage à",
+      "powered_by": "Propulsé par Tounes.AI 📖",
+      "companions": {
+        "solo": "🚶 Seul(e)",
+        "couple": "💑 En couple",
+        "family": "👨‍👩‍👧‍👦 En famille",
+        "friends": "👥 Entre amis"
+      },
+      "how_to_get_key": "**Comment obtenir une clé gratuite :**\n1. Allez sur [console.groq.com](https://console.groq.com)\n2. Connectez-vous avec Google\n3. Copiez votre clé API"
+    },
+    "ar": {
+      "app_title": "📖 تونس",
+      "app_subtitle": "حوّل المعالم التونسية إلى قصص غامرة",
+      "step1": "الخطوة ١: اختر المعلم",
+      "step2": "الخطوة ٢: خصّص قصتك",
+      "step3": "الخطوة ٣: اختر أسلوب الحكاية",
+      "upload_photo": "📷 رفع صورة",
+      "choose_from_list": "📍 اختيار من القائمة",
+      "upload_prompt": "ارفع صورة لمعلم تونسي",
+      "your_name": "اسمك",
+      "name_placeholder": "أدخل اسمك...",
+      "companion_label": "مع من أنت؟",
+      "language_label": "لغة القصة",
+      "generate_btn": "✨ اصنع قصتي",
+      "generating": "📖 تونس يحيك قصتك...",
+      "listen_title": "🔊 استمع لقصتك",
+      "generate_audio_btn": "🎧 توليد السرد الصوتي",
+      "share_title": "📤 شارك تجربتك",
+      "fun_facts_title": "💡 هل تعلم؟",
+      "download_btn": "📥 تحميل القصة",
+      "new_story_btn": "🔄 إنشاء قصة جديدة",
+      "identified": "✅ تم التعرف",
+      "unknown_landmark": "🤔 لم أتعرف على المعلم. اختر يدوياً:",
+      "choose_landmark": "اختر معلماً",
+      "settings": "⚙️ الإعدادات",
+      "api_key_label": "🔑 مفتاح Groq API",
+      "api_key_help": "احصل على مفتاحك المجاني من console.groq.com",
+      "enter_api_key": "👆 أدخل مفتاح API للبدء",
+      "api_ready": "✅ جاهز للعمل!",
+      "quality_settings": "🎚️ إعدادات الجودة",
+      "auto_retry": "إعادة المحاولة التلقائية",
+      "show_quality": "عرض مؤشرات الجودة",
+      "about_title": "📖 عن تونس",
+      "about_text": "**تونس** هو الحكواتي الذكي\nالذي يحوّل صور المعالم التونسية\nإلى قصص غامرة ومخصصة.\n\nصُنع لـ **AINC'26** 🇹🇳",
+      "your_story": "📖 قصتك",
+      "quality_details": "📊 تفاصيل الجودة",
+      "word_count": "الطول",
+      "language_purity": "نقاء اللغة",
+      "structure": "البنية",
+      "recording": "🎙️ جاري التسجيل...",
+      "journey_to": "رحلة {name} إلى",
+      "powered_by": "صُنعت بواسطة Tounes.AI 📖 تونس",
+      "companions": {
+        "solo": "🚶 أسافر بمفردي",
+        "couple": "💑 مع شريكي",
+        "family": "👨‍👩‍👧‍👦 مع عائلتي",
+        "friends": "👥 مع أصدقائي"
+      },
+      "how_to_get_key": "**كيف تحصل على مفتاح مجاني:**\n1. اذهب إلى [console.groq.com](https://console.groq.com)\n2. سجّل بحساب Google\n3. انسخ مفتاح API"
     }
   }
 }
